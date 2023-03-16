@@ -1,0 +1,44 @@
+/* navbar start */
+.nav-link {
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: rgb(28, 194, 28) !important;
+
+}
+
+/* navbar end */
+
+
+/* main start */
+.plan-btn{
+    height: 47px;
+    width: 250px;
+    border-radius: 70px !important;
+}
+.plan-btn:hover{
+    height: 55px;
+}
+
+
+
+@media(min-width:276px) and (max-width:767.98px){
+    .plan-btn{
+        width: 100% !important;
+    }
+}
+
+@media(min-width:276px) and (max-width:967.98px){
+    .img-res{
+        width: 100px;
+        height: 100px;
+    }
+    
+   
+}
+
+
+
+
+/* main end */
